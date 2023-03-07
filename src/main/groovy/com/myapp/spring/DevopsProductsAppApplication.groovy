@@ -11,3 +11,15 @@ class DevopsProductsAppApplication {
 	}
 
 }
+
+
+// SCM -> Git & Github
+
+// Build management -> Maven
+
+// Test Automation -> JUNIT
+
+// CI SERVER -> JENKINS
+
+
+// CONTINUOUS DELIVERY
