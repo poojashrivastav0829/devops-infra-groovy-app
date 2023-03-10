@@ -43,3 +43,14 @@ class Test1 {
 // CMD ["main.py"]
 
 
+// RUN cd /app/bin
+// RUN touch sample.txt
+
+
+// WORKDIR /app/bin
+// RUN touch sample.txt 
+
+
+
+
+
